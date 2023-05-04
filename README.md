@@ -2,7 +2,7 @@
 
 Troisième projet validant d'analyse de données dans le cadre de la formation THP  
 
-Onjectif : compléter une série de katas pour tracer des graphes  🥋🥋
+Objectif : compléter une série de katas pour tracer des graphes  🥋🥋
 
 
 ## Outils de travail
